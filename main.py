@@ -1,8 +1,7 @@
 import pyautogui
 import time
 
-# Intervalo em segundos
-intervalo = 3.8
+intervalo = 4
 
 try:
     while True:
